@@ -23,7 +23,7 @@ Aspiring cybersecurity professional with a strong foundation in network security
 | User Authentication and Access Controls         | <a href="https://github.com/tomcolby/Applying-User-Authentication-and-Access-Controls/tree/main">User Authentication and Access Controls Lab</a>|
 | Encryption to Enhance Confidentiality and Integrity      | <a href="https://github.com/tomcolby/Using-Encryption-to-Enhance-Confidentiality-and-Integrity/tree/main">Encryption to Enhance Confidentiality and Integrity Lab</a>|
 | Case Management with TheHive                  | <a href="https://github.com/tomcolby/Assessing-Common-Attack-Vectors/tree/main">Assessing Common Attack Vectors Lab </a>|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/tomcolby/Implementing-an-IT-Security-Policy/tree/main">Implementing an IT Security Policy Lab</a>|
 
 ## Tools
 
@@ -61,3 +61,4 @@ Aspiring cybersecurity professional with a strong foundation in network security
 - <a href="https://github.com/tomcolby/Applying-User-Authentication-and-Access-Controls/tree/main">User Authentication and Access Controls</a>
 - <a href="https://github.com/tomcolby/Using-Encryption-to-Enhance-Confidentiality-and-Integrity/tree/main">Encryption to Enhance Confidentiality and Integrity </a>
 - <a href="https://github.com/tomcolby/Assessing-Common-Attack-Vectors/tree/main">Assessing Common Attack Vectors </a>
+- <a href="https://github.com/tomcolby/Implementing-an-IT-Security-Policy/tree/main">Implementing an IT Security Policy </a>
