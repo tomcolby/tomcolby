@@ -55,7 +55,7 @@ Aspiring cybersecurity professional with a strong foundation in network security
 </div>
 
 ## Projects
-- <a href="https://github.com/Test-MyDFIR/Detection-Lab/tree/main">Detection Lab</a>
+- <a href="https://github.com/tomcolby/Exploring-the-Seven-Domains-of-a-Typical-IT-Infrastructure/tree/main">IT Infrastructure Lab</a>
 - Detection Lab
 - SOC Automation Project
 - Test Project
