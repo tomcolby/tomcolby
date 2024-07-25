@@ -17,7 +17,7 @@ Aspiring cybersecurity professional with a strong foundation in network security
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com">Detection Lab</a>|
+| The Seven Domains of a Typical IT Infrastructure          | <a href="https://github.com/tomcolby/Exploring-the-Seven-Domains-of-a-Typical-IT-Infrastructure/tree/main">IT Infrastructure Lab</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
