@@ -24,6 +24,8 @@ Aspiring cybersecurity professional with a strong foundation in network security
 | Encryption to Enhance Confidentiality and Integrity      | <a href="https://github.com/tomcolby/Using-Encryption-to-Enhance-Confidentiality-and-Integrity/tree/main">Encryption to Enhance Confidentiality and Integrity Lab</a>|
 | Assessing Common Attack Vectors                  | <a href="https://github.com/tomcolby/Assessing-Common-Attack-Vectors/tree/main">Assessing Common Attack Vectors Lab </a>|
 | Implementing an IT Security Policy | <a href="https://github.com/tomcolby/Implementing-an-IT-Security-Policy/tree/main">Implementing an IT Security Policy Lab</a>|
+| Implementing Security Monitoring and Logging  | <a href="https://github.com/tomcolby/Implementing-Security-Monitoring-and-Logging-/tree/main">Implementing Security Monitoring and Logging Lab </a>|
+||
 
 ## Tools
 
@@ -62,3 +64,5 @@ Aspiring cybersecurity professional with a strong foundation in network security
 - <a href="https://github.com/tomcolby/Using-Encryption-to-Enhance-Confidentiality-and-Integrity/tree/main">Encryption to Enhance Confidentiality and Integrity </a>
 - <a href="https://github.com/tomcolby/Assessing-Common-Attack-Vectors/tree/main">Assessing Common Attack Vectors </a>
 - <a href="https://github.com/tomcolby/Implementing-an-IT-Security-Policy/tree/main">Implementing an IT Security Policy </a>
+- <a href="https://github.com/tomcolby/Implementing-Security-Monitoring-and-Logging-/tree/main">Implementing Security Monitoring and Logging  </a>
+- <a href=""> </a>
