@@ -19,7 +19,7 @@ Aspiring cybersecurity professional with a strong foundation in network security
 |-----------------------------------------------|----------------------------|
 | The Seven Domains of a Typical IT Infrastructure          | <a href="https://github.com/tomcolby/Exploring-the-Seven-Domains-of-a-Typical-IT-Infrastructure/tree/main">IT Infrastructure Lab</a>|
 | Vulnerability Assessment          | <a href="https://github.com/tomcolby/Performing-a-Vulnerability-Assessment/tree/main">Vulnerability Assessment Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Packet Capture and Traffic Analysis | <a href="https://github.com/tomcolby/Performing-Packet-Capture-and-Traffic-Analysis/tree/main">Packet Capture and Traffic Analysis Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -57,5 +57,5 @@ Aspiring cybersecurity professional with a strong foundation in network security
 ## Projects
 - <a href="https://github.com/tomcolby/Exploring-the-Seven-Domains-of-a-Typical-IT-Infrastructure/tree/main">IT Infrastructure Lab</a>
 - <a href="https://github.com/tomcolby/Performing-a-Vulnerability-Assessment/tree/main">Vulnerability Assessment Lab</a>
-- SOC Automation Project
+- <a href="https://github.com/tomcolby/Performing-Packet-Capture-and-Traffic-Analysis/tree/main">Packet Capture and Traffic Analysis Lab</a>
 - Test Project
