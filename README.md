@@ -26,7 +26,7 @@ Aspiring cybersecurity professional with a strong foundation in network security
 | Implementing an IT Security Policy | <a href="https://github.com/tomcolby/Implementing-an-IT-Security-Policy/tree/main">Implementing an IT Security Policy Lab</a>|
 | Implementing Security Monitoring and Logging  | <a href="https://github.com/tomcolby/Implementing-Security-Monitoring-and-Logging-/tree/main">Implementing Security Monitoring and Logging Lab </a>|
 | Configuring Backup and Recovery Functions| <a href="https://github.com/tomcolby/Configuring-Backup-and-Recovery-Functions/tree/main">Configuring Backup and Recovery Functions Lab </a>|
-
+| Incident Response and Forensic Analysis| <a href="https://github.com/tomcolby/Performing-Incident-Response-and-Forensic-Analysis/tree/main">Incident Response and Forensic Analysis Lab </a>|
 ## Tools
 
 ### Network
@@ -66,3 +66,4 @@ Aspiring cybersecurity professional with a strong foundation in network security
 - <a href="https://github.com/tomcolby/Implementing-an-IT-Security-Policy/tree/main">Implementing an IT Security Policy </a>
 - <a href="https://github.com/tomcolby/Implementing-Security-Monitoring-and-Logging-/tree/main">Implementing Security Monitoring and Logging  </a>
 - <a href="https://github.com/tomcolby/Configuring-Backup-and-Recovery-Functions/tree/main">Configuring Backup and Recovery Functions </a>
+- <a href="https://github.com/tomcolby/Performing-Incident-Response-and-Forensic-Analysis/tree/main">Incident Response and Forensic Analysis </a>
