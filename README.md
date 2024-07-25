@@ -21,7 +21,7 @@ Aspiring cybersecurity professional with a strong foundation in network security
 | Vulnerability Assessment          | <a href="https://github.com/tomcolby/Performing-a-Vulnerability-Assessment/tree/main">Vulnerability Assessment Lab</a>|
 | Packet Capture and Traffic Analysis | <a href="https://github.com/tomcolby/Performing-Packet-Capture-and-Traffic-Analysis/tree/main">Packet Capture and Traffic Analysis Lab</a>|
 | User Authentication and Access Controls         | <a href="https://github.com/tomcolby/Applying-User-Authentication-and-Access-Controls/tree/main">User Authentication and Access Controls Lab</a>|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Encryption to Enhance Confidentiality and Integrity      | <a href="https://github.com/tomcolby/Using-Encryption-to-Enhance-Confidentiality-and-Integrity/tree/main">Encryption to Enhance Confidentiality and Integrity Lab</a>|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
@@ -59,3 +59,4 @@ Aspiring cybersecurity professional with a strong foundation in network security
 - <a href="https://github.com/tomcolby/Performing-a-Vulnerability-Assessment/tree/main">Vulnerability Assessment Lab</a>
 - <a href="https://github.com/tomcolby/Performing-Packet-Capture-and-Traffic-Analysis/tree/main">Packet Capture and Traffic Analysis Lab</a>
 - <a href="https://github.com/tomcolby/Applying-User-Authentication-and-Access-Controls/tree/main">User Authentication and Access Controls</a>
+- <a href="https://github.com/tomcolby/Using-Encryption-to-Enhance-Confidentiality-and-Integrity/tree/main">Encryption to Enhance Confidentiality and Integrity </a>
