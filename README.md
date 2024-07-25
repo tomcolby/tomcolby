@@ -22,7 +22,7 @@ Aspiring cybersecurity professional with a strong foundation in network security
 | Packet Capture and Traffic Analysis | <a href="https://github.com/tomcolby/Performing-Packet-Capture-and-Traffic-Analysis/tree/main">Packet Capture and Traffic Analysis Lab</a>|
 | User Authentication and Access Controls         | <a href="https://github.com/tomcolby/Applying-User-Authentication-and-Access-Controls/tree/main">User Authentication and Access Controls Lab</a>|
 | Encryption to Enhance Confidentiality and Integrity      | <a href="https://github.com/tomcolby/Using-Encryption-to-Enhance-Confidentiality-and-Integrity/tree/main">Encryption to Enhance Confidentiality and Integrity Lab</a>|
-| Case Management with TheHive                  | SOC Automation Lab|
+| Case Management with TheHive                  | <a href="https://github.com/tomcolby/Assessing-Common-Attack-Vectors/tree/main">Assessing Common Attack Vectors Lab </a>|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
@@ -60,3 +60,4 @@ Aspiring cybersecurity professional with a strong foundation in network security
 - <a href="https://github.com/tomcolby/Performing-Packet-Capture-and-Traffic-Analysis/tree/main">Packet Capture and Traffic Analysis Lab</a>
 - <a href="https://github.com/tomcolby/Applying-User-Authentication-and-Access-Controls/tree/main">User Authentication and Access Controls</a>
 - <a href="https://github.com/tomcolby/Using-Encryption-to-Enhance-Confidentiality-and-Integrity/tree/main">Encryption to Enhance Confidentiality and Integrity </a>
+- <a href="https://github.com/tomcolby/Assessing-Common-Attack-Vectors/tree/main">Assessing Common Attack Vectors </a>
