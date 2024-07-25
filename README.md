@@ -25,7 +25,7 @@ Aspiring cybersecurity professional with a strong foundation in network security
 | Assessing Common Attack Vectors                  | <a href="https://github.com/tomcolby/Assessing-Common-Attack-Vectors/tree/main">Assessing Common Attack Vectors Lab </a>|
 | Implementing an IT Security Policy | <a href="https://github.com/tomcolby/Implementing-an-IT-Security-Policy/tree/main">Implementing an IT Security Policy Lab</a>|
 | Implementing Security Monitoring and Logging  | <a href="https://github.com/tomcolby/Implementing-Security-Monitoring-and-Logging-/tree/main">Implementing Security Monitoring and Logging Lab </a>|
-||
+| Configuring Backup and Recovery Functions| <a href="https://github.com/tomcolby/Configuring-Backup-and-Recovery-Functions/tree/main">Configuring Backup and Recovery Functions Lab </a>|
 
 ## Tools
 
@@ -65,4 +65,4 @@ Aspiring cybersecurity professional with a strong foundation in network security
 - <a href="https://github.com/tomcolby/Assessing-Common-Attack-Vectors/tree/main">Assessing Common Attack Vectors </a>
 - <a href="https://github.com/tomcolby/Implementing-an-IT-Security-Policy/tree/main">Implementing an IT Security Policy </a>
 - <a href="https://github.com/tomcolby/Implementing-Security-Monitoring-and-Logging-/tree/main">Implementing Security Monitoring and Logging  </a>
-- <a href=""> </a>
+- <a href="https://github.com/tomcolby/Configuring-Backup-and-Recovery-Functions/tree/main">Configuring Backup and Recovery Functions </a>
